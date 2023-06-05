@@ -4,7 +4,6 @@
 I am @ktoan911
 
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
-- 🖥 My favourite programming language: C and C#
 - 🌱 I’m interested in Game Designer, AI and Software Engineering.
 - 🗣️ I enjoy communicating and collaborating with others to achieve common goals.
 
