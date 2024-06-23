@@ -4,7 +4,7 @@
 I am @ktoan911
 
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
-- 🌱 I’m interested in Game Design, AI and Software Engineering.
+- 🌱 I’m interested in Data Science and Artificial Intelligence.
 - 🗣️ I enjoy communicating and collaborating with others to achieve common goals.
 
 
