@@ -1,40 +1,103 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there!
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" />  
+  Hey there, I'm <span style="color:#00b8ff;">Toàn Nguyễn</span> 👨‍💻
+</h1>
 
-# 💫About Me :
-I am @ktoan911
+<h3 align="center">
+  🚀 AI Engineer in the making | 🎓 IT Student @ HUST | 🌏 Passionate about Data, Code, and Impact
+</h3>
 
-- 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
-- 🌱 I’m interested in Data Science and Artificial Intelligence.
-- 🗣️ I enjoy communicating and collaborating with others to achieve common goals.
-
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nkton.ils/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toannguyenkhanh/) 
-
-# 💻Languages and Tools 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-
-
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ktoan911&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ktoan911&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktoan911&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=💡+Turning+ideas+into+intelligent+systems...;🔥+Passionate+about+AI+and+ML;🚀+Always+learning+something+new!&center=true&width=500&height=45" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ktoan911&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🧠 About Me  
+
+```yaml
+name: Nguyễn Khánh Toàn
+role: AI & Data Enthusiast
+education: Hanoi University of Science and Technology
+interests:
+  - Machine Learning
+  - Natural Language Processing
+  - Data Engineering
+  - Flutter Development
+hobbies:
+  - Reading about AI breakthroughs
+  - Contributing to open-source
+  - Designing clean software architectures
+```
+
+💬 *“I believe technology should make life smarter, not harder.”*  
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/toannguyenkhanh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/nkton.ils/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:toan.nguyenkhanh@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dart,flutter,anaconda,dotnet,unity,sql,latex,git,linux&perline=6" />
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ktoan911&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ktoan911&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktoan911&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote of the Day  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ktoan911&theme=onedark&row=1&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+### 🔥 Fun Stats  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktoan911&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ktoan911&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
+<h4 align="center">⭐️ “Code. Learn. Inspire.” ⭐️</h4>
