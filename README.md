@@ -97,8 +97,4 @@ hobbies:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ktoan911&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
-
 <h4 align="center">⭐️ “Code. Learn. Inspire.” ⭐️</h4>
