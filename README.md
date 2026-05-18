@@ -55,7 +55,7 @@ hobbies:
 ### 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dart,flutter,anaconda,dotnet,unity,sql,latex,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dart,flutter,anaconda,dotnet,unity,latex,git,linux&perline=6" />
 </p>
 
 ---
